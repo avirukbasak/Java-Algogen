@@ -31,7 +31,7 @@ Plans to add more formats is not under consideration yet (that's all the yets yo
 - [StatementType](https://github.com/OogleGlu/Java-Algogen/blob/main/StatementType.java)
 
 ## Contacts
-- @OogleGlu: <a href = "mailto:OogleGlu@gmail.com">OogleGlu@gmail.com</a>
+- @OogleGlu: <a href = "mailto:peter2003smith@gmail.com">peter2003smith@gmail.com</a>
 
 ## How will we 'help' the needy?
 The [CISCE](https://en.m.wikipedia.org/wiki/Council_for_the_Indian_School_Certificate_Examinations) board computer science students require to 
